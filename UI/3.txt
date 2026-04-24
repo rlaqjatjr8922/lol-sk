@@ -1,0 +1,3 @@
+ENGINE_SETTINGS = {
+    "MAX_WORKERS": 4
+}

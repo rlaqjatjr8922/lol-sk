@@ -1,0 +1,4846 @@
+{
+  "Albedo": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Alhaitham": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be skill[hold=1] or a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Aloy": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Amber": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only burst and aim followed by walk have proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Arlecchino": {
+    "charge": {
+      "legal": "early_cancel",
+      "notes": "Cancel the CA immediately after absorbing nearby Blood-Debt Directives. The next action must be Dash or Jump. Default 0 (false), 1 for true"
+    },
+    "low_plunge": {
+      "legal": "collision",
+      "notes": "0 for no collision dmg (default), 1 for collision dmg."
+    },
+    "high_plunge": {
+      "legal": "collision",
+      "notes": "0 for no collision dmg (default), 1 for collision dmg."
+    }
+  },
+  "Kamisato Ayaka": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kamisato Ayato": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Not available in skill state. Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example. Cannot be used while in skill state."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example. Cannot be used while in skill state."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Baizhu": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Barbara": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Everything except charge and burst followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Beidou": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Bennett": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Candace": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Charlotte": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Chasca": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Must have just exited Nightsoul Blessing"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Chevreuse": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Chiori": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be skill[hold=1]."
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Everything except normal followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Chongyun": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Citlali": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Clorinde": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Collei": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Cyno": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Dahlia": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Dehya": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Diluc": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Diona": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Dori": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Emilie": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Escoffier": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Eula": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Everything except normal followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Faruzan": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Fischl": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Flins": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Freminet": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Furina": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Gaming": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be skill or a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be skill or a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Ganyu": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Gorou": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Shikanoin Heizou": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Hu Tao": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Ineffa": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": ""
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Arataki Itto": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Jean": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kaeya": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kaveh": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kaedehara Kazuha": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be skill or a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Keqing": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kinich": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge. Cannot charge in nightsoul blessing"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example. Cannot low plunge in nightsoul blessing."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kirara": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Klee": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Sangonomiya Kokomi": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kuki Shinobu": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Lan Yan": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Lauma": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "Cannot dash while in spirit envoy state."
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Layla": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Lisa": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Lynette": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Lyney": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Mavuika": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a walking Flamestrider jump or jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Mika": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yumemizuki Mizuki": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Mona": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Mualani": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Nahida": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Navia": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Normal Attacks do not have legal walk cancels recorded, but Skill, Burst and Low/High Plunge do."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Neuvillette": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Nilou": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Ningguang": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Noelle": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Ororon": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Qiqi": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Raiden Shogun": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Razor": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Rosaria": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Kujou Sara": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Sayu": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Sethos": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Shenhe": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Everything except normal followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Sigewinne": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Skirk": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "Cannot be used in Seven-Phase Flash."
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Sucrose": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Tartaglia": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Only available if in skill state. Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "⚠",
+      "notes": "Only available if not in skill state."
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk and walk followed by skill have proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Thoma": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Tighnari": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Traveler (Anemo)": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Traveler (Dendro)": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Traveler (Electro)": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Traveler (Geo)": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Traveler (Hydro)": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only skill and burst followed by walk have proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Traveler (Pyro)": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Only available for Lumine. Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Only available for Lumine. Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only skill and burst followed by walk have proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Varesa": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "⚠",
+      "notes": "Hold skill is not implemented."
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be charge or jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Venti": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be skill[hold=1]."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Wanderer": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Only available for a short time after Windfavored state ends."
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "⚠",
+      "notes": "Swapping while Windfavored state is active is not legal."
+    }
+  },
+  "Wriothesley": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Xiangling": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Xianyun": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be jump buffed via Xianyun's burst for example or must be still in Cloud Transmogrification state (Xianyun E)."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be jump buffed via Xianyun's burst for example or must be still in Cloud Transmogrification state (Xianyun E)."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Xiao": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Xilonen": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge. Cannot charge in nightsoul blessing"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example. Cannot low plunge in nightsoul blessing."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Xingqiu": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Xinyan": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "Not implemented yet."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yae Miko": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yanfei": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "high_plunge": {
+      "legal": "⚠",
+      "notes": "Previous action must be a jump buffed via Xianyun's burst for example."
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk (except low_plunge and high_plunge) has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yaoyao": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yelan": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yoimiya": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "aim": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "Only aim followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Yun Jin": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  },
+  "Zhongli": {
+    "attack": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "charge": {
+      "legal": "⚠",
+      "notes": "Need to use attack right before charge."
+    },
+    "aim": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "skill": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "burst": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "low_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "high_plunge": {
+      "legal": "❌",
+      "notes": "-"
+    },
+    "dash": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "jump": {
+      "legal": "✔",
+      "notes": "-"
+    },
+    "walk": {
+      "legal": "⚠",
+      "notes": "No action followed by walk has proper frames."
+    },
+    "swap": {
+      "legal": "✔",
+      "notes": "-"
+    }
+  }
+}

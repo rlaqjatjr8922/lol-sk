@@ -1,0 +1,17 @@
+COLLECT_SETTINGS = {
+    "MAX_WORKERS": 4,
+    "SEARCH_RESULT_LIMIT": 10,
+    "MAX_DOCS_PER_CHARACTER": 8,
+    "MIN_TEXT_LENGTH": 300,
+    "SAVE_RAW_TEXT": True,
+    "IGNORE_KEYWORDS": [
+        "privacy policy",
+        "cookie",
+        "login",
+    ],
+    "BLOCK_SITES": [
+        "youtube",
+        "tistory",
+        "blog",
+    ],
+}

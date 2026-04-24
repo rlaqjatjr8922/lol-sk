@@ -1,0 +1,7 @@
+Freminet	데이터 비어있음: 파티
+Traveler (Anemo)	데이터 비어있음: 파티
+Traveler (Dendro)	데이터 비어있음: 파티
+Traveler (Electro)	데이터 비어있음: 파티
+Traveler (Geo)	데이터 비어있음: 파티
+Traveler (Hydro)	데이터 비어있음: 파티
+Traveler (Pyro)	데이터 비어있음: 파티
