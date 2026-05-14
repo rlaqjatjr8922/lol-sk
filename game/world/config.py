@@ -1,0 +1,16 @@
+# generated file
+
+MAP_WIDTH = 7
+MAP_HEIGHT = 7
+
+TILE_SIZE = 60
+
+PLAYER_SIZE = 0.5
+
+FPS = 60
+
+DT = 1 / FPS
+
+MAX_PLAYERS = 4
+
+MAX_GAME_TIME = 60
